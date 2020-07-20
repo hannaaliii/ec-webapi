@@ -13,9 +13,7 @@
   "scripts": {
     "precommit": "yarn lint",
     "start": "npm start",
-    "dev": "nodemon ./src/index.js",
-    "lint:fix": "yarn lint --fix",
-    "lint:watch": "yarn lint --watch",
+    "dev": "nodemon ./src/index.js"
   },
   "repository": {
     "type": "git",
